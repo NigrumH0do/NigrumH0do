@@ -13,7 +13,6 @@ I specialize in **optimizing workflows** and building robust systems that bridge
 - 🔭 **Current Focus:** Deploying autonomous agents and maintaining **24/7 headless Linux servers**.
 - 💡 **Core Skills:** Java Backend, **n8n Automation**, System Integration, Edge AI (YOLO).
 - ⚡ **Infrastructure:** Learning **Debian/Arch/Ubuntu** environments on embedded hardware (Raspberry Pi 5 / Radxa).
-- 📫 **Contact:** jpinillaz@unal.edu.co
 ---
 
 ### 🛠️ Featured Engineering Experience 
